@@ -14,10 +14,10 @@ En comienzo este blog es para comentar situaciones que este pasando o sucesos qu
 
 > ### To know more and get started with Jekyll you can click [here](https://www.youtube.com/channel/UCnvxX87WxsZ4G0yM0K0nH2Q){:targe="_blank"}
 	
-# Installation
-**Jekyll is a Ruby Gem that can be installed on most systems.**
-### Requirements
-* [Ruby](https://www.ruby-lang.org/en/downloads/){:target="_blank"} version 2.5.0 or above, including all development headers (ruby version can be checked by running ruby -v)
+# Inicio
+**El blog **
+### Inicios
+* Fotos al més de joyeria 
 * [Ruby Gems](https://rubygems.org/pages/download){:target="_blank"} (which you can check by running gem -v)
 * [GCC](https://gcc.gnu.org/install/){:target="_blank"} and [Make](https://www.gnu.org/software/make/){:target="_blank"}
 
