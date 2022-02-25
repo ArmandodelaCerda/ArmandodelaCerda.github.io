@@ -1,7 +1,7 @@
 ---
-title: What is Jekyll? How to use it?
+title: Que es rexmil resplandeciente??
 layout: post
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/What%20is%20Jekyll%20and%20How%20to%20use%20it.png?token=AHMQUELVG36IDSA4SZEZ5P26Z64IW"
+post-image: "![image](https://user-images.githubusercontent.com/98052684/155646460-3256924c-ddbf-4862-921e-340885fb9e3c.png)"
 description: Jekyll is a static site generator. You give it text written in your favorite
   markup language and it uses layouts to create a static website.
 tags:
