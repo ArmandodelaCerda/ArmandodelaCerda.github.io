@@ -11,7 +11,7 @@ tags:
 ---
 
 En comienzo este blog es para comentar situaciones que este pasando o sucesos que me parezcan interesante ya sea en mi vida privada o pública [here](https://help.github.com/en/github/working-with-github-pages/about-github-pages){:target="blank"} or [here](https://pages.github.com/){:target="blank"}
-###### Source : [`Jekyll Docs`](https://jekyllrb.com/docs/)
+###### Source : Armando de la Cerda Aviña
 
 > ### To know more and get started with Jekyll you can click [here](https://jekyllrb.com/){:targe="_blank"}
 	
