@@ -2,7 +2,7 @@
 title: Que es rexmil resplandeciente??
 layout: post
 post-image: "https://i.ytimg.com/vi/UYAke3MVVkw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcd09dm64AvpC6gzdovW_CaXLMew"
-description: Este es un blog creado para conocer situaciones y sucesos interesantes que conozca
+description: Este es un blog creado para conocer situaciones,sucesos interesantes o relatos que conozca
 tags:
 - rexmil resplandeciente
 - blog
@@ -18,8 +18,8 @@ En comienzo este blog es para comentar situaciones que este pasando o sucesos qu
 **El blog **
 ### Inicios
 * Fotos al més de joyeria 
-* [Ruby Gems](https://rubygems.org/pages/download){:target="_blank"} (which you can check by running gem -v)
-* [GCC](https://gcc.gnu.org/install/){:target="_blank"} and [Make](https://www.gnu.org/software/make/){:target="_blank"}
+* Historía de terror mensual 
+* Video mensual
 
 ### After Installing the Requirements you can follow these guides:
 **For detailed install instructions have a look at the guide for your operating system.**
