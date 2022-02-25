@@ -2,8 +2,7 @@
 title: Que es rexmil resplandeciente??
 layout: post
 post-image: "https://i.ytimg.com/vi/UYAke3MVVkw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcd09dm64AvpC6gzdovW_CaXLMew"
-description: Jekyll is a static site generator. You give it text written in your favorite
-  markup language and it uses layouts to create a static website.
+description: Este es un blog creado para conocer situaciones y sucesos interesantes en mi vida
 tags:
 - rexmil resplandeciente
 - blog
