@@ -12,7 +12,7 @@ tags:
 En comienzo este blog es para comentar situaciones que este pasando o sucesos que me parezcan interesante ya sea en mi vida privada o pública [here](https://help.github.com/en/github/working-with-github-pages/about-github-pages){:target="blank"} or [here](https://pages.github.com/){:target="blank"}
 ###### Source : Armando de la Cerda Aviña
 
-> ### To know more and get started with Jekyll you can click [here](https://jekyllrb.com/){:targe="_blank"}
+> ### To know more and get started with Jekyll you can click [here](https://www.youtube.com/channel/UCnvxX87WxsZ4G0yM0K0nH2Q){:targe="_blank"}
 	
 # Installation
 **Jekyll is a Ruby Gem that can be installed on most systems.**
